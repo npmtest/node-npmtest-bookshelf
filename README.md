@@ -1,4 +1,7 @@
-# test coverage for  [bookshelf (v0.10.3)](http://bookshelfjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-bookshelf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bookshelf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bookshelf.svg)](https://travis-ci.org/npmtest/node-npmtest-bookshelf)
+# npmtest-bookshelf
+
+#### basic test coverage for  [bookshelf (v0.10.3)](http://bookshelfjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-bookshelf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bookshelf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bookshelf.svg)](https://travis-ci.org/npmtest/node-npmtest-bookshelf)
+
 #### A lightweight ORM for PostgreSQL, MySQL, and SQLite3
 
 [![NPM](https://nodei.co/npm/bookshelf.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bookshelf)

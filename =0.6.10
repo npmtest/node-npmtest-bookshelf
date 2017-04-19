@@ -1,4 +1,4 @@
-npmtest-bookshelf@0.0.1 /home/travis/build/npmtest/node-npmtest-bookshelf
+npmtest-bookshelf@0.0.2 /home/travis/build/npmtest/node-npmtest-bookshelf
 └─┬ knex@0.12.9 
   ├─┬ commander@2.9.0 
   │ └── graceful-readlink@1.0.1 
@@ -73,5 +73,5 @@ npmtest-bookshelf@0.0.1 /home/travis/build/npmtest/node-npmtest-bookshelf
   ├─┬ tildify@1.0.0 
   │ └── user-home@1.1.1 
   ├── uuid@3.0.1 
-  └── v8flags@2.0.12 
+  └── v8flags@2.1.1 
 
